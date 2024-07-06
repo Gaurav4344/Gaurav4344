@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello ! I am Gaurav Patil & I am a Full Stack Developer
+Hello !
+I am Gaurav Patil & I am a Full Stack Developer
+
 🔭 I’m currently working on GoroDoro<br>👯 I’m looking to collaborate on Linkedin<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
